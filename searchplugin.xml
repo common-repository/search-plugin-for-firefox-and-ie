@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+	<ShortName>studentisiena</ShortName>
+	<Description>csao</Description>
+	<Tags>cio,ciao</Tags>
+	<Contact>pluginsearch@gmail.com</Contact>
+	<Url type="text/html" template="http://www.studentisiena.it/wordpress/?s={searchTerms}"/>
+	<LongName>studentisiena</LongName>
+	<Image height="64" width="64" type="image/png"/>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">http://www.informaniaci.it/images/favicon.ico</Image>
+	<Developer>Informaniaci.it</Developer>
+	<Attribution>Copyright 2009, Informaniaci.it, Tutti i diritti riservati</Attribution>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>it-IT</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription>
